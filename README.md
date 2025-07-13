@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Hola a todos! 👋
 
 <!--
 **NeonExplorerOficial/neonexploreroficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Hola, soy NeonExplorer ^^
+- Soy Un YouTuber de Emulación de Habla Hispana, proveniente de...Venezuela 🇻🇪
+- Mis Conocimientos sobre, no tengo muchos, solo, a veces programó por diversión 🙃
+- Oyeee...pero si deseas saber algo sobre emulación, como configurar algún emulador de Android, podría ayudarte 😁
+  
