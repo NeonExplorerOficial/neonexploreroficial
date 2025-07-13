@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Hola, soy NeonExplorer ^^
-- Soy Un YouTuber de Emulación de Habla Hispana, proveniente de...Venezuela 🇻🇪
-- Mis Conocimientos sobre, no tengo muchos, solo, a veces programó por diversión 🙃
-- Oyeee...pero si deseas saber algo sobre emulación, como configurar algún emulador de Android, podría ayudarte 😁
+
+Soy Un YouTuber de Emulación de Habla Hispana, proveniente de...Venezuela 🇻🇪
+
+Mi Conocimiento sobre programación, pues...no tengo mucho, solo, a veces programó por diversión 🙃
+
+Oyeee...pero si deseas saber algo sobre emulación, como configurar algún emulador de Android, podría ayudarte 😁
   
+## Soy un YouTuber, así que pues, tengo mi [Canal de YouTube](https://www.youtube.com/@neonexplorerlegacy) 
