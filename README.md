@@ -1,4 +1,4 @@
-## ¡Hola a todos! 👋
+## ¡Hola a todos! <img src="https://cdn.discordapp.com/attachments/1393804680513065081/1393805197280673822/hand-waving-hand.gif?ex=687481be&is=6873303e&hm=cf05144bae41cc4837f3f1c675f1bea52a3fdb34537a0fa53940897331990636&" width="20" height="20">
 <img src="https://cdn.discordapp.com/attachments/1393804680513065081/1393804862533144666/neonexplorer-logo.png?ex=6874816e&is=68732fee&hm=1949a1d4fe395b4614d7909a1cb89e6d0fa7a088aa358ac0c4db1539337ad287"></img>
 <!--
 **NeonExplorerOficial/neonexploreroficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
