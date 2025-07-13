@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Hola, soy NeonExplorer ^^
+- Hola, soy <I>NeonExplorer</i> ^^
 
 Soy Un YouTuber de Emulación de Habla Hispana, proveniente de...Venezuela 🇻🇪
 
