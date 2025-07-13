@@ -22,4 +22,4 @@ Mi Conocimiento sobre programación, pues...no tengo mucho, solo, a veces progra
 
 Oyeee...pero si deseas saber algo sobre emulación, como configurar algún emulador de Android, podría ayudarte 😁
   
-## Soy un YouTuber, así que pues, tengo mi [Canal de YouTube](https://www.youtube.com/@neonexplorerlegacy) 
+### Soy un YouTuber, así que pues, tengo mi [Canal de YouTube](https://www.youtube.com/@neonexplorerlegacy) 
