@@ -1,5 +1,5 @@
-## ¡Hola a todos! <img src="https://cdn.discordapp.com/attachments/1393804680513065081/1393805197280673822/hand-waving-hand.gif?ex=687481be&is=6873303e&hm=cf05144bae41cc4837f3f1c675f1bea52a3fdb34537a0fa53940897331990636&" width="20" height="20">
-<img src="https://cdn.discordapp.com/attachments/1393804680513065081/1393804862533144666/neonexplorer-logo.png?ex=6874816e&is=68732fee&hm=1949a1d4fe395b4614d7909a1cb89e6d0fa7a088aa358ac0c4db1539337ad287"></img>
+## ¡Hola a todos! <img src="https://huggingface.co/NeonExplorerOficial/Githubuserreadme/resolve/main/hand-waving-hand.gif" width="20" height="20">
+<img src="https://huggingface.co/NeonExplorerOficial/Githubuserreadme/resolve/main/neonexplorer-logo.png"></img>
 <!--
 **NeonExplorerOficial/neonexploreroficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +22,4 @@ Mi Conocimiento sobre programación, pues...no tengo mucho, solo, a veces progra
 
 Oyeee...pero si deseas saber algo sobre emulación, como configurar algún emulador de Android, podría ayudarte 😁
   
-### Soy un YouTuber, así que pues, tengo mi [Canal de YouTube](https://www.youtube.com/@neonexplorerlegacy) <img src="https://cdn.discordapp.com/attachments/1393804680513065081/1393968908406362365/3146788_youtube_logo_icon.png?ex=68751a36&is=6873c8b6&hm=d11650572707c88fcd1c4e57b4bb73e670b2e07f431f6de432517bf688760447&" width="20" height="20">
+### Soy un YouTuber, así que pues, tengo mi [Canal de YouTube](https://www.youtube.com/@neonexplorerlegacy) <img src="https://huggingface.co/NeonExplorerOficial/Githubuserreadme/resolve/main/3146788_youtube_logo_icon.png" width="20" height="20">
